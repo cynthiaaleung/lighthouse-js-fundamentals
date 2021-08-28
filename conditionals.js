@@ -8,3 +8,8 @@ if (temperature < 0) {
 	console.log("Short sleeves are fine.");
 }
 console.log("You are now ready to go outside!");
+
+
+if (!raining) {
+	console.log("Leave your umbrella at home!");
+}
